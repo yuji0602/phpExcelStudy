@@ -14,3 +14,5 @@ $ php phpExcelSample.php
 ```
 
 実行すると`output.xlsx`が出力されます。
+
+![output image](https://i.gyazo.com/0c5a3d7376ca8af672044c2f1e409bdb.png)
